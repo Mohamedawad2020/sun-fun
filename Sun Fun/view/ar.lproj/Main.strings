@@ -1,0 +1,674 @@
+
+/* Class = "UILabel"; text = "Add Ticket Details"; ObjectID = "03G-EP-ZoD"; */
+"03G-EP-ZoD.text" = "أدخل تفاصيل الحدث";
+
+/* Class = "UILabel"; text = "Please enter data"; ObjectID = "03x-vP-cXq"; */
+"03x-vP-cXq.text" = "الرجاء إدخال البيانات";
+
+/* Class = "UILabel"; text = "Activities associated with the event"; ObjectID = "09C-0E-kG2"; */
+"09C-0E-kG2.text" = "الأنشطة المرتبطة بالحدث";
+
+/* Class = "UITextField"; placeholder = "enter number"; ObjectID = "0D3-ap-THZ"; */
+"0D3-ap-THZ.placeholder" = "أدخل رقم";
+
+/* Class = "UILabel"; text = "00966"; ObjectID = "0GF-33-uPZ"; */
+"0GF-33-uPZ.text" = "٩٦٦";
+
+/* Class = "UITextField"; placeholder = "price"; ObjectID = "0Ji-cQ-RxM"; */
+"0Ji-cQ-RxM.placeholder" = "السعر";
+
+/* Class = "UILabel"; text = "Personal card / commercial register"; ObjectID = "0PY-JC-hsH"; */
+"0PY-JC-hsH.text" = "صورة الهويه / صورة السجل التجارى" ;
+
+/* Class = "UILabel"; text = "Add Event Details"; ObjectID = "0S2-A5-P0O"; */
+"0S2-A5-P0O.text" = "إضافة تفاصيل الحدث";
+
+/* Class = "UITextField"; placeholder = "departments"; ObjectID = "0aZ-sz-AFf"; */
+"0aZ-sz-AFf.placeholder" = "الأقسام";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "15L-Hc-nDz"; */
+"15L-Hc-nDz.text" = "تعديل الملف الشخصي";
+
+/* Class = "UILabel"; text = "First: The details of the event"; ObjectID = "1qQ-km-xqq"; */
+"1qQ-km-xqq.text" = "أولاً: تفاصيل الحدث";
+
+/* Class = "UILabel"; text = "Event Image"; ObjectID = "2C4-tO-ygl"; */
+"2C4-tO-ygl.text" = "صورة الحدث";
+
+/* Class = "UILabel"; text = "price"; ObjectID = "2TG-2m-Yxh"; */
+"2TG-2m-Yxh.text" = "السعر";
+
+/* Class = "UILabel"; text = "Event Time"; ObjectID = "2fe-Hg-HVl"; */
+"2fe-Hg-HVl.text" = "وقت الحدث";
+
+/* Class = "UILabel"; text = "Activity Name"; ObjectID = "2lG-Df-Hh4"; */
+"2lG-Df-Hh4.text" = "اسم النشاط (العربيه)";
+"sb5-Jh-MKG.text" = "اسم النشاط (الانجليزيه)";
+
+
+
+/* Class = "UILabel"; text = "00966 "; ObjectID = "2lQ-yq-f0Y"; */
+"2lQ-yq-f0Y.text" = "00966 ";
+
+/* Class = "UINavigationItem"; title = "Sign Up"; ObjectID = "3Ge-hS-tML"; */
+"3Ge-hS-tML.title" = "سجل";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "3db-lf-Dnv"; */
+"3db-lf-Dnv.text" = "عنوان";
+
+/* Class = "UILabel"; text = "Four: More Details"; ObjectID = "3mu-5O-rkz"; */
+"3mu-5O-rkz.text" = "رابعا: مزيد من التفاصيل";
+
+/* Class = "UILabel"; text = "Add Ticket Details"; ObjectID = "3v1-sV-Aec"; */
+"3v1-sV-Aec.text" = "تفاصيل التذكرة (العربيه)";
+"cZc-42-b53.text" = "تفاصيل التذكرة (الانجليزيه)";
+
+
+/* Class = "UILabel"; text = "Event Image"; ObjectID = "4B7-mw-VVa"; */
+"4B7-mw-VVa.text" = "صورة الحدث";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "4L8-uj-cPN"; */
+"4L8-uj-cPN.placeholder" = "رقم الهاتف";
+
+/* Class = "UIButton"; normalTitle = "You already have an account ? "; ObjectID = "4YL-CS-VzN"; */
+"4YL-CS-VzN.normalTitle" = "لديك حساب بالفعل ؟";
+
+/* Class = "UILabel"; text = "My Events"; ObjectID = "4bi-H5-5VG"; */
+"4bi-H5-5VG.text" = "أحداثي";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "4zI-Og-jRw"; */
+"4zI-Og-jRw.text" = "الملف الشخصي";
+
+/* Class = "UILabel"; text = "SubNumber"; ObjectID = "5PG-CB-3o4"; */
+"5PG-CB-3o4.text" = "عدد المشتركين";
+
+/* Class = "UITextField"; placeholder = "end of event"; ObjectID = "5fJ-3X-bqh"; */
+"5fJ-3X-bqh.placeholder" = "نهاية الحدث";
+
+/* Class = "UITextField"; placeholder = "date"; ObjectID = "63B-u0-dM0"; */
+"63B-u0-dM0.placeholder" = "نهاية النشاط";
+
+/* Class = "UILabel"; text = "Tickets"; ObjectID = "65U-Sc-HnI"; */
+"65U-Sc-HnI.text" = "تذاكر";
+
+/* Class = "UITextField"; placeholder = "event responsible"; ObjectID = "6iV-6N-XO9"; */
+"6iV-6N-XO9.placeholder" = "منظم الحدث";
+
+/* Class = "UIButton"; normalTitle = "Scan"; ObjectID = "6pr-8A-TuK"; */
+"6pr-8A-TuK.normalTitle" = "مسح";
+
+/* Class = "UILabel"; text = "Add Event Details"; ObjectID = "7Pv-5b-tLN"; */
+"7Pv-5b-tLN.text" =  "تفاصيل الحدث (العربيه)";
+"WOQ-G3-x1T.text" =  "تفاصيل الحدث (الانجليزيه)";
+
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "7VI-vB-urG"; */
+"7VI-vB-urG.normalTitle" = "حفظ التغيرات";
+
+/* Class = "UILabel"; text = "Event Address"; ObjectID = "7au-rB-fSa"; */
+"7au-rB-fSa.text" = "عنوان الحدث";
+
+/* Class = "UILabel"; text = "Event Details"; ObjectID = "8Cc-7L-5hP"; */
+"8Cc-7L-5hP.text" = "تفاصيل الحدث";
+
+/* Class = "UITextField"; placeholder = "email address"; ObjectID = "8Gc-V6-yXW"; */
+"8Gc-V6-yXW.placeholder" = "البريد الالكترونى";
+
+/* Class = "UILabel"; text = "Address: "; ObjectID = "8xS-3q-pqg"; */
+"8xS-3q-pqg.text" = "العنوان: ";
+
+/* Class = "UILabel"; text = "TimeF"; ObjectID = "8xd-n0-7ui"; */
+"8xd-n0-7ui.text" = "وقت البدايه";
+
+/* Class = "UIViewController"; title = "My Orders"; ObjectID = "95a-p0-3ih"; */
+"95a-p0-3ih.title" = "طلباتى";
+
+/* Class = "UILabel"; text = "The beginning of the event"; ObjectID = "9cC-Pj-8B0"; */
+"9cC-Pj-8B0.text" = "بداية الحدث";
+
+/* Class = "UITextField"; placeholder = "max number"; ObjectID = "9iQ-7u-K4B"; */
+"9iQ-7u-K4B.placeholder" = "أقصى عدد";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "9ru-kb-xZe"; */
+"9ru-kb-xZe.normalTitle" = "ارسال";
+
+/* Class = "UILabel"; text = "Leave Your Message"; ObjectID = "9uq-SY-NpC"; */
+"9uq-SY-NpC.text" = "اترك رسالتك";
+
+/* Class = "UITextField"; placeholder = "Event Address"; ObjectID = "AER-Vh-wHF"; */
+"AER-Vh-wHF.placeholder" = "عنوان الحدث";
+
+/* Class = "UILabel"; text = "Credit Limit"; ObjectID = "AWC-Vx-p5S"; */
+"AWC-Vx-p5S.text" = "الحد الائتماني";
+
+/* Class = "UITextField"; placeholder = "the beginning of the event"; ObjectID = "AiH-rj-ZTK"; */
+"AiH-rj-ZTK.placeholder" = "بداية الحدث";
+
+/* Class = "UITextField"; placeholder = "event name"; ObjectID = "BMi-vY-b6m"; */
+"BMi-vY-b6m.placeholder" = "اسم الحدث";
+
+/* Class = "UILabel"; text = "End of event"; ObjectID = "Bb3-sG-JD1"; */
+"Bb3-sG-JD1.text" = "نهاية الحدث";
+
+/* Class = "UITextField"; placeholder = "phone number"; ObjectID = "BcV-Mv-Mkn"; */
+"BcV-Mv-Mkn.placeholder" = "رقم الجوال";
+
+/* Class = "UITextField"; placeholder = "Select payment method"; ObjectID = "Bhe-s5-giq"; */
+"Bhe-s5-giq.placeholder" = "اختار طريقة الدفع";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Blh-0Q-4fv"; */
+"Blh-0Q-4fv.text" = "البريد الالكترونى";
+
+/* Class = "UILabel"; text = "Event Organizer"; ObjectID = "BoF-Qh-Y84"; */
+"BoF-Qh-Y84.text" = "منظم الحدث";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "C1B-wn-94c"; */
+"C1B-wn-94c.text" = "العنوان";
+
+/* Class = "UILabel"; text = "Select your location on the map"; ObjectID = "D2R-1n-n8Y"; */
+"D2R-1n-n8Y.text" = "حدد موقعك على الخريطة";
+
+/* Class = "UIViewController"; title = "Account"; ObjectID = "DQ7-Nk-GzE"; */
+"DQ7-Nk-GzE.title" = "حسابى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EJz-93-gVH"; */
+"EJz-93-gVH.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "responsible"; ObjectID = "ELS-Wn-px8"; */
+"ELS-Wn-px8.placeholder" = "المنظم";
+
+/* Class = "UIButton"; normalTitle = "Reserve"; ObjectID = "EgA-rr-bRb"; */
+"EgA-rr-bRb.normalTitle" = "احجز";
+
+/* Class = "UITextField"; placeholder = "number of individuals"; ObjectID = "ElX-HH-PL4"; */
+"ElX-HH-PL4.placeholder" = "عدد المشتركين";
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "F7a-LH-U6S"; */
+"F7a-LH-U6S.text" = "اسم المستخدم";
+
+/* Class = "UILabel"; text = "Barcode :"; ObjectID = "Fbo-Na-PlO"; */
+"Fbo-Na-PlO.text" = "الباركود :";
+
+/* Class = "UILabel"; text = "Second: Details about the event Place"; ObjectID = "Fhl-JR-Sej"; */
+"Fhl-JR-Sej.text" = "ثانيا: تفاصيل حول مكان الحدث";
+
+/* Class = "UILabel"; text = "End of event"; ObjectID = "GNc-MJ-jo6"; */
+"GNc-MJ-jo6.text" = "نهاية الحدث";
+
+/* Class = "UILabel"; text = "Five: Add Activities To The Event"; ObjectID = "GQ4-CX-x6d"; */
+"GQ4-CX-x6d.text" = "خامسا: إضافة الأنشطة إلى الحدث";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "H5g-uM-B4G"; */
+"H5g-uM-B4G.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "Are You Want To Add Activities To event ?"; ObjectID = "Hay-ag-4Gr"; */
+"Hay-ag-4Gr.text" = "هل تريد اضافة انشطه للحدث ؟";
+
+/* Class = "UILabel"; text = "Share App"; ObjectID = "HlP-Vy-x9f"; */
+"HlP-Vy-x9f.text" = "مشاركة التطبيق";
+
+/* Class = "UILabel"; text = "Activities associated with the event"; ObjectID = "Hpg-pT-Fwg"; */
+"Hpg-pT-Fwg.text" = "الأنشطة المرتبطة بالحدث";
+
+/* Class = "UILabel"; text = "Ticket Number"; ObjectID = "Htj-S6-vGr"; */
+"Htj-S6-vGr.text" = "رقم التذكرة";
+
+/* Class = "UITextField"; placeholder = "choose activity"; ObjectID = "Hz3-e8-WBS"; */
+"Hz3-e8-WBS.placeholder" = "اختيار النشاط";
+
+/* Class = "UILabel"; text = "Number Of Idividuals for Activity"; ObjectID = "HzY-WL-bMe"; */
+"HzY-WL-bMe.text" = "عدد المشتركين فى النشاط";
+
+/* Class = "UILabel"; text = "Share App"; ObjectID = "IbI-fq-MMk"; */
+"IbI-fq-MMk.text" = "مشاركة التطبيق";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Itj-uX-t5D"; */
+"Itj-uX-t5D.normalTitle" = "التالى";
+
+/* Class = "UILabel"; text = "00966"; ObjectID = "Jyc-ki-NhW"; */
+"Jyc-ki-NhW.text" = "00966";
+
+/* Class = "UILabel"; text = "Max Number Of Subscriber"; ObjectID = "KMY-21-BtG"; */
+"KMY-21-BtG.text" = "اقصى عدد من المشتركين";
+
+/* Class = "UITextField"; placeholder = "user name"; ObjectID = "LUf-eY-YGI"; */
+"LUf-eY-YGI.placeholder" = "اسم المستخدم";
+
+/* Class = "UILabel"; text = "dateF"; ObjectID = "Lj4-9a-dhm"; */
+"Lj4-9a-dhm.text" = "تاريخ الدايه";
+
+/* Class = "UITextField"; placeholder = "type"; ObjectID = "M2t-V8-xZR"; */
+"M2t-V8-xZR.placeholder" = "النوع";
+
+/* Class = "UILabel"; text = "TimeT"; ObjectID = "MAa-Yf-emf"; */
+"MAa-Yf-emf.text" = "وقت النهايه";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "MJL-hM-QkK"; */
+"MJL-hM-QkK.text" = "نعم";
+
+/* Class = "UITextField"; placeholder = "user name"; ObjectID = "MdC-0e-4ga"; */
+"MdC-0e-4ga.placeholder" = "اسم المستخدم";
+
+/* Class = "UILabel"; text = "choose Activities"; ObjectID = "NJO-vp-yZn"; */
+"NJO-vp-yZn.text" = "اختار الانشطه";
+
+/* Class = "UILabel"; text = "message"; ObjectID = "Na1-2W-Wd6"; */
+"Na1-2W-Wd6.text" = "الرسالة";
+
+/* Class = "UIButton"; normalTitle = "sign up"; ObjectID = "Nm9-MS-eTm"; */
+"Nm9-MS-eTm.normalTitle" = "سجل";
+
+/* Class = "UILabel"; text = "Max Number Of Subscriber"; ObjectID = "Nq7-9J-Ity"; */
+"Nq7-9J-Ity.text" = "اقصي عدد من المشتركين";
+
+/* Class = "UILabel"; text = "Event Date"; ObjectID = "O6w-Zy-0LS"; */
+"O6w-Zy-0LS.text" = "تاريخ الحدث";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "O8e-0Z-7P1"; */
+"O8e-0Z-7P1.normalTitle" = "سجل";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "O8l-nM-K41"; */
+"O8l-nM-K41.text" = "الى";
+
+/* Class = "UITextField"; placeholder = "type"; ObjectID = "OM6-Pk-fLf"; */
+"OM6-Pk-fLf.placeholder" = "النوع";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "OQK-Nh-er4"; */
+"OQK-Nh-er4.text" = "الي";
+
+/* Class = "UIViewController"; title = "Bank Accounts"; ObjectID = "OVK-gl-M6s"; */
+"OVK-gl-M6s.title" = "الحسابات البنكيه";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Oai-VR-8Ii"; */
+"Oai-VR-8Ii.normalTitle" = "التالى";
+
+/* Class = "UITextField"; placeholder = "end of event"; ObjectID = "Oe3-tK-wf1"; */
+"Oe3-tK-wf1.placeholder" = "نهاية الحدث";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "OgV-1t-K30"; */
+"OgV-1t-K30.text" = "العنوان";
+
+/* Class = "UIViewController"; title = "Contact Us"; ObjectID = "OnZ-tP-WtR"; */
+"OnZ-tP-WtR.title" = "اتصل بنا";
+
+/* Class = "UILabel"; text = "Activity Image"; ObjectID = "Onz-fD-rzx"; */
+"Onz-fD-rzx.text" = "صورة النشاط";
+
+/* Class = "UITextField"; placeholder = "phone number"; ObjectID = "P9V-kf-Mqx"; */
+"P9V-kf-Mqx.placeholder" = "رقم الجوال";
+
+/* Class = "UITextField"; placeholder = "event responsible"; ObjectID = "PBk-kS-Wu9"; */
+"PBk-kS-Wu9.placeholder" = "منظم الحدث";
+
+/* Class = "UILabel"; text = "code : "; ObjectID = "PmU-vF-8A7"; */
+"PmU-vF-8A7.text" = "كود : ";
+
+/* Class = "UILabel"; text = "Event Name"; ObjectID = "Psf-L1-Tpy"; */
+"Psf-L1-Tpy.text" = "اسم الحدث (العربيه)";
+"Fiu-Cx-U1L.text" = "اسم الحدث (الانجليزيه)";
+/* Class = "UILabel"; text = "Contact US"; ObjectID = "Q13-b0-owi"; */
+"Q13-b0-owi.text" = "اتصل بنا";
+
+/* Class = "UILabel"; text = "Event Organizer"; ObjectID = "QcP-Nl-3Ux"; */
+"QcP-Nl-3Ux.text" = "منظم الحدث";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "QfY-gr-whE"; */
+"QfY-gr-whE.text" = "البريد الالكترونى";
+
+/* Class = "UIViewController"; title = "Upgrade To Company"; ObjectID = "R5B-Zs-aoX"; */
+"R5B-Zs-aoX.title" = "الترقية الى شركة";
+
+/* Class = "UILabel"; text = "Ticket Price : "; ObjectID = "RVV-1p-NTa"; */
+"RVV-1p-NTa.text" = "سعر التذكرة:";
+
+/* Class = "UILabel"; text = "Subscriber Number : "; ObjectID = "Rsj-CG-iw9"; */
+"Rsj-CG-iw9.text" = "عدد المشتركين:";
+
+/* Class = "UITextField"; placeholder = "email address"; ObjectID = "SDX-hR-1pJ"; */
+"SDX-hR-1pJ.placeholder" = "البريد الالكتروني";
+"YRd-n4-iFU.placeholder" = "اسم الحدث";
+/* Class = "UILabel"; text = "Arab Language"; ObjectID = "SEc-rp-0JZ"; */
+"SEc-rp-0JZ.text" = "اللغه الانجليزيه";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "STS-8A-Ur9"; */
+"STS-8A-Ur9.text" = "الاسم";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "SeL-kX-Xtf"; */
+"SeL-kX-Xtf.text" = "السعر";
+
+/* Class = "UITextField"; placeholder = "time"; ObjectID = "Svq-XR-Qhf"; */
+"Svq-XR-Qhf.placeholder" = "الوقت";
+
+/* Class = "UITextField"; placeholder = "subject"; ObjectID = "SwI-EZ-SLa"; */
+"SwI-EZ-SLa.placeholder" = "الموضوع";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tq2-DD-eBh"; */
+"Tq2-DD-eBh.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "login"; ObjectID = "Uat-gF-QYf"; */
+"Uat-gF-QYf.title" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "UcW-RW-aRB"; */
+"UcW-RW-aRB.text" = "السعر";
+
+/* Class = "UILabel"; text = "Refused Events"; ObjectID = "Un4-9W-Kw5"; */
+"Un4-9W-Kw5.text" = "الاحداث المرفوضه";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "Upa-mP-MYp"; */
+"Upa-mP-MYp.title" = "الرئيسية";
+
+/* Class = "UITextField"; placeholder = "Event Address"; ObjectID = "V2y-Jq-Dag"; */
+"V2y-Jq-Dag.placeholder" = "عنوان الحدث";
+
+/* Class = "UITextField"; placeholder = "the beginning of the event"; ObjectID = "VLk-jM-o8g"; */
+"VLk-jM-o8g.placeholder" = "بداية الحدث";
+
+/* Class = "UILabel"; text = "phone number"; ObjectID = "W01-sW-ddx"; */
+"W01-sW-ddx.text" = "رقم الجوال";
+
+/* Class = "UITextField"; placeholder = "price"; ObjectID = "WHz-qH-w1g"; */
+"WHz-qH-w1g.placeholder" = "السعر";
+
+/* Class = "UIViewController"; title = "Account"; ObjectID = "Wg9-wl-2rn"; */
+"Wg9-wl-2rn.title" = "حسابي";
+
+/* Class = "UILabel"; text = "Barcode :"; ObjectID = "YFq-9b-YVP"; */
+"YFq-9b-YVP.text" = "الباركود :";
+
+/* Class = "UILabel"; text = "Ticket Number : "; ObjectID = "YPD-yi-yVu"; */
+"YPD-yi-yVu.text" = "رقم التذكرة :";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "Ys8-jh-t37"; */
+"Ys8-jh-t37.text" = "السعر";
+
+/* Class = "UINavigationController"; title = "Add event"; ObjectID = "Yux-Ub-zkT"; */
+"Yux-Ub-zkT.title" = "اضافة حدث";
+
+/* Class = "UITabBarItem"; title = "Notification"; ObjectID = "ZfH-iq-rI8"; */
+"ZfH-iq-rI8.title" = "الاشعارات";
+
+/* Class = "UILabel"; text = "SubNumber"; ObjectID = "ZiE-0J-JWb"; */
+"ZiE-0J-JWb.text" = "عدد المشتركين";
+
+/* Class = "UILabel"; text = "Tickets"; ObjectID = "aHa-XR-nPu"; */
+"aHa-XR-nPu.text" = "التذاكر";
+
+/* Class = "UIButton"; normalTitle = "Approve"; ObjectID = "aJ8-hN-C3t"; */
+"aJ8-hN-C3t.normalTitle" = "قبول";
+
+/* Class = "UITextField"; placeholder = "user name"; ObjectID = "aNq-Xf-ygb"; */
+"aNq-Xf-ygb.placeholder" = "اسم المستخدم";
+
+/* Class = "UILabel"; text = "phone number"; ObjectID = "abx-lO-2gX"; */
+"abx-lO-2gX.text" = "رقم الجوال";
+
+/* Class = "UIViewController"; title = "Account"; ObjectID = "afO-Hp-h0J"; */
+"afO-Hp-h0J.title" = "حسابى";
+
+/* Class = "UIViewController"; title = "Terms And Conditions"; ObjectID = "amz-KI-WNT"; */
+"amz-KI-WNT.title" = "الشروط والاحكام";
+
+/* Class = "UITextField"; placeholder = "event name"; ObjectID = "cm2-Ke-dr3"; */
+"cm2-Ke-dr3.placeholder" = "اسم الحدث";
+
+/* Class = "UILabel"; text = "dateT"; ObjectID = "cnn-cr-LAL"; */
+"cnn-cr-LAL.text" = "تاريخ النهايه";
+
+/* Class = "UILabel"; text = "dateF"; ObjectID = "cuo-fh-4U5"; */
+"cuo-fh-4U5.text" = "تاريخ البدايه";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "czS-0X-jAu"; */
+"czS-0X-jAu.title" = "عنصر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "d5L-Zg-yRi"; */
+"d5L-Zg-yRi.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "address"; ObjectID = "dDH-xp-bb9"; */
+"dDH-xp-bb9.placeholder" = "العنوان";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "dUy-Sw-fXj"; */
+"dUy-Sw-fXj.normalTitle" = "التالى";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "dhU-Mk-Clq"; */
+"dhU-Mk-Clq.normalTitle" = "تأكيد";
+
+/* Class = "UITextField"; placeholder = "price"; ObjectID = "eNZ-cU-066"; */
+"eNZ-cU-066.placeholder" = "السعر";
+
+/* Class = "UILabel"; text = "Number Of Idividuals"; ObjectID = "elx-he-rxJ"; */
+"elx-he-rxJ.text" = "عدد المشتركين";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "erV-62-97e"; */
+"erV-62-97e.normalTitle" = "تأكيد";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "etO-Jg-Xu9"; */
+"etO-Jg-Xu9.text" = "لا";
+
+/* Class = "UITextField"; placeholder = "start at"; ObjectID = "f1e-mS-CIJ"; */
+"f1e-mS-CIJ.placeholder" = "بداية النشاط";
+
+/* Class = "UITextField"; placeholder = "time"; ObjectID = "fDV-P6-37X"; */
+"fDV-P6-37X.placeholder" = "الوقت";
+
+/* Class = "UILabel"; text = "Max Number Of Subscriber"; ObjectID = "fG4-cm-MlE"; */
+"fG4-cm-MlE.text" = "اقصى عدد من المشتركين";
+
+/* Class = "UITextField"; placeholder = "choose type"; ObjectID = "fJ3-hw-5oI"; */
+"fJ3-hw-5oI.placeholder" = "اختار النوع";
+
+/* Class = "UIViewController"; title = "Bank Accounts"; ObjectID = "fLC-wq-3z4"; */
+"fLC-wq-3z4.title" = "الحسابات البنكية";
+
+/* Class = "UITextField"; placeholder = "unit"; ObjectID = "fZ9-2n-MVe"; */
+"fZ9-2n-MVe.placeholder" = "الوحده";
+
+/* Class = "UILabel"; text = "Responsible"; ObjectID = "fc0-Aq-2M0"; */
+"fc0-Aq-2M0.text" = "اسم المسؤول" ;
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "fiM-2s-LpK"; */
+"fiM-2s-LpK.normalTitle" = "التالى";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "fq2-rr-BaH"; */
+"fq2-rr-BaH.text" = "الى";
+
+/* Class = "UIButton"; normalTitle = "Book now"; ObjectID = "fsO-BM-GMQ"; */
+"fsO-BM-GMQ.normalTitle" = "احجز الان";
+
+/* Class = "UILabel"; text = "Terms And Conditions"; ObjectID = "gLQ-vK-xGH"; */
+"gLQ-vK-xGH.text" = "الشروط والاحكام";
+
+/* Class = "UITextField"; placeholder = "email address"; ObjectID = "gzk-jS-oBA"; */
+"gzk-jS-oBA.placeholder" = "البريد الالكترونى";
+
+/* Class = "UIViewController"; title = "About App"; ObjectID = "hEg-oD-4Mh"; */
+"hEg-oD-4Mh.title" = "حول التطبيق";
+
+/* Class = "UILabel"; text = "Sign Out"; ObjectID = "hR9-vJ-edL"; */
+"hR9-vJ-edL.text" = "تسجيل خروج";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "hW9-G5-NUC"; */
+"hW9-G5-NUC.text" = "الى";
+
+/* Class = "UITextField"; placeholder = "time"; ObjectID = "haA-3P-3b8"; */
+"haA-3P-3b8.placeholder" = "الوقت";
+
+/* Class = "UILabel"; text = "Event Time"; ObjectID = "heb-hq-z7V"; */
+"heb-hq-z7V.text" = "وقت الحدث";
+
+/* Class = "UILabel"; text = "The beginning of the event"; ObjectID = "hop-3h-TOC"; */
+"hop-3h-TOC.text" = "بداية الحدث";
+
+/* Class = "UILabel"; text = "Comapny Name"; ObjectID = "iIy-0w-lea"; */
+"iIy-0w-lea.text" = "اسم الشركه";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "ihp-Mp-6FU"; */
+"ihp-Mp-6FU.title" = "رجوع";
+
+/* Class = "UILabel"; text = "Confirm add, event by clicking on the OK button"; ObjectID = "jdK-zV-dJH"; */
+"jdK-zV-dJH.text" = "تأكيد اضافة الحدث، بالضغط على زر موافق";
+
+/* Class = "UIButton"; normalTitle = "login"; ObjectID = "kEX-pF-wvp"; */
+"kEX-pF-wvp.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UITextField"; placeholder = "name"; ObjectID = "kGq-mQ-2g7"; */
+"kGq-mQ-2g7.placeholder" = "الاسم";
+
+/* Class = "UILabel"; text = "Event Name"; ObjectID = "lJ0-md-hww"; */
+"lJ0-md-hww.text" = "اسم الحدث";
+
+/* Class = "UIButton"; normalTitle = "Refuse"; ObjectID = "liP-kn-A3t"; */
+"liP-kn-A3t.normalTitle" = "رفض";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "lts-XB-eVs"; */
+"lts-XB-eVs.text" = "الموضوع";
+
+/* Class = "UIViewController"; title = "Ticket Booking"; ObjectID = "mDw-5b-ec4"; */
+"mDw-5b-ec4.title" = "حجز تذكرة";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "mOb-kf-nTF"; */
+"mOb-kf-nTF.text" = "البريد الالكترونى";
+
+/* Class = "UILabel"; text = "Ticket Number : "; ObjectID = "mXb-QT-jyX"; */
+"mXb-QT-jyX.text" = "رقم التذكرة :";
+
+/* Class = "UITabBarItem"; title = "My Orders"; ObjectID = "mmn-AS-f8D"; */
+"mmn-AS-f8D.title" = "طلباتى";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "n2j-mc-PMC"; */
+"n2j-mc-PMC.text" = "البريد الالكترونى";
+
+/* Class = "UILabel"; text = "Upgrade As Company"; ObjectID = "npv-Dz-fA6"; */
+"npv-Dz-fA6.text" = "الترقيه الى شركة";
+
+/* Class = "UILabel"; text = "Accepted Events"; ObjectID = "oP3-jK-UPj"; */
+"oP3-jK-UPj.text" = "الاحداث المقبوله";
+
+/* Class = "UILabel"; text = "Ticket Price : "; ObjectID = "onN-qg-j6C"; */
+"onN-qg-j6C.text" = "سعر التذكرة : ";
+
+/* Class = "UILabel"; text = "user name"; ObjectID = "pPK-gU-bAT"; */
+"pPK-gU-bAT.text" = "اسم المستخدم";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "pYJ-iT-yRK"; */
+"pYJ-iT-yRK.normalTitle" = "التالى";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pc5-yk-4qL"; */
+"pc5-yk-4qL.text" = "Label";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "q47-h9-Fuk"; */
+"q47-h9-Fuk.text" = "العنوان";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "qF3-VV-jwn"; */
+"qF3-VV-jwn.placeholder" = "البريد الالكترونى";
+
+/* Class = "UILabel"; text = "About App"; ObjectID = "qe0-Nu-ZET"; */
+"qe0-Nu-ZET.text" = "حول التطبيق";
+
+/* Class = "UITextField"; placeholder = "max number"; ObjectID = "qg8-jj-b7L"; */
+"qg8-jj-b7L.placeholder" = "اقصى عدد من المشتركين";
+
+/* Class = "UILabel"; text = "price"; ObjectID = "qgg-yO-F1o"; */
+"qgg-yO-F1o.text" = "السعر";
+
+/* Class = "UILabel"; text = "Subscriber Number : "; ObjectID = "qhA-XS-E9Z"; */
+"qhA-XS-E9Z.text" = "عدد المشتركين";
+
+/* Class = "UITextField"; placeholder = "email address"; ObjectID = "rC9-GE-Fnh"; */
+"rC9-GE-Fnh.placeholder" = "البريد الالكترونى";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "rXD-UD-fj3"; */
+"rXD-UD-fj3.text" = "رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "s2a-iH-gmm"; */
+"s2a-iH-gmm.normalTitle" = "ترقيه";
+
+/* Class = "UILabel"; text = "TimeT"; ObjectID = "tVD-Vq-Aty"; */
+"tVD-Vq-Aty.text" = "وقت النهايه";
+
+/* Class = "UITextField"; placeholder = "choose category"; ObjectID = "tX3-QI-pAs"; */
+"tX3-QI-pAs.placeholder" = "اختار القسم";
+
+/* Class = "UILabel"; text = "TimeF"; ObjectID = "tat-Wj-gYD"; */
+"tat-Wj-gYD.text" = "TimeF";
+
+/* Class = "UITextField"; placeholder = "time"; ObjectID = "trg-nA-qf0"; */
+"trg-nA-qf0.placeholder" = "time";
+
+/* Class = "UILabel"; text = "Ticket Number"; ObjectID = "u05-pS-ng4"; */
+"u05-pS-ng4.text" = "رقم التذكرة";
+
+/* Class = "UITextField"; placeholder = "departments"; ObjectID = "u7I-nF-Q6A"; */
+"u7I-nF-Q6A.placeholder" = "الاقسام";
+
+/* Class = "UILabel"; text = "Event Address"; ObjectID = "uKH-Vy-4RP"; */
+"uKH-Vy-4RP.text" = "عنوان الحدث";
+
+/* Class = "UILabel"; text = "Select your location on the map"; ObjectID = "uah-mJ-8Z5"; */
+"uah-mJ-8Z5.text" = "حدد موقعك على الخريطة";
+
+/* Class = "UITextField"; placeholder = "activity name"; ObjectID = "ubE-qj-RzZ"; */
+"ubE-qj-RzZ.placeholder" = "اسم النشاط";
+"CPH-3W-K54.placeholder" = "اسم النشاط";
+
+
+/* Class = "UISegmentedControl"; ufQ-AU-OhZ.segmentTitles[0] = "Current"; ObjectID = "ufQ-AU-OhZ"; */
+"ufQ-AU-OhZ.segmentTitles[0]" = "الحاليه";
+
+/* Class = "UISegmentedControl"; ufQ-AU-OhZ.segmentTitles[1] = "Previous"; ObjectID = "ufQ-AU-OhZ"; */
+"ufQ-AU-OhZ.segmentTitles[1]" = "السابقه";
+
+/* Class = "UILabel"; text = "Third: Time and date"; ObjectID = "vAJ-OA-zrp"; */
+"vAJ-OA-zrp.text" = "ثالثا :الوقت والتاريخ";
+
+/* Class = "UILabel"; text = "dateT"; ObjectID = "vPZ-0K-eZQ"; */
+"vPZ-0K-eZQ.text" = "dateT";
+
+/* Class = "UILabel"; text = "Event Details"; ObjectID = "vQT-hc-4xo"; */
+"vQT-hc-4xo.text" = "تفاصيل الحدث";
+
+/* Class = "UITextField"; placeholder = "activity address"; ObjectID = "vyc-sI-u0J"; */
+"vyc-sI-u0J.placeholder" = "عنوان النشاط";
+"oM7-2p-En2.placeholder" = "عنوان النشاط";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "wCT-g6-Zcq"; */
+"wCT-g6-Zcq.title" = "المزيد";
+
+/* Class = "UILabel"; text = "Banking Accounts"; ObjectID = "wKG-Rx-sGK"; */
+"wKG-Rx-sGK.text" = "الحسابات البنكيه";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "wLo-eu-Av9"; */
+"wLo-eu-Av9.text" = "العنوان";
+
+/* Class = "UILabel"; text = "Activity Address"; ObjectID = "wlP-zK-7lr"; */
+"wlP-zK-7lr.text" =  "عنوان النشاط (العربيه)";
+"xsy-OI-cEg.text" =  "عنوان النشاط (الانجليزيه)";
+
+/* Class = "UITextField"; placeholder = "max number"; ObjectID = "xHK-ft-hzQ"; */
+"xHK-ft-hzQ.placeholder" = "اقصى عدد من المشتركين";
+
+/* Class = "UIButton"; normalTitle = "sign in "; ObjectID = "yNx-3V-KJM"; */
+"yNx-3V-KJM.normalTitle" = "تسجيل الدخول ";
+
+/* Class = "UILabel"; text = "New Sign Up"; ObjectID = "zJv-cc-deH"; */
+"zJv-cc-deH.text" = "تسجيل جديد";
+
+/* Class = "UILabel"; text = "Read QR Code"; ObjectID = "zUs-fx-mGO"; */
+"zUs-fx-mGO.text" = "قراءة رمز الاستجابه السريعه";
+
+/* Class = "UILabel"; text = "Event Date"; ObjectID = "zXf-I1-Fjc"; */
+"zXf-I1-Fjc.text" = "تاريخ الحدث";
+
+/* Class = "UILabel"; text = "Order Details"; ObjectID = "zYN-GU-8ME"; */
+"zYN-GU-8ME.text" = "تفاصيل الطلب";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "zwQ-2t-9nR"; */
+"zwQ-2t-9nR.placeholder" = "كلمة المرور";
+//"wDX-Ge-Daa.normalTitle" = "احجز الان";
+"wDX-Ge-Daa.normalTitle" = "احجز الان";
+"Psh-0l-3uf.text" = "حدد موقعك على الخريطة";
+"i8P-89-9vS.text" = "تحديث كلمة المرور";
+"rLq-Jw-ihw.text" = "من";
+"sdp-RE-yid.text" = "من";
+"zwr-1A-OKs.text" = "من";
+"6d9-GZ-CQW.text" = "من";
+

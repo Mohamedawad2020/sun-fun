@@ -1,0 +1,155 @@
+/* 
+  Localizable.strings
+  Sun Fun
+
+  Created by arab devolpers on 7/16/19.
+  Copyright © 2019 arab devolpers. All rights reserved.
+*/
+/* Time localize */
+"just_now" = "منذ لحظات";
+"seconds_ago" = " ثانية";
+"minute_ago" = "منذ دقيقة";
+"minutes_ago" = " دقائق مضت";
+"hour_ago" = "منذ ساعة";
+"hours_ago" = " ساعات مضت";
+"days_ago" = " يوم مضي";
+"yesterday" = "امس";
+"last_week" = "الاسبوع الماضي";
+"weeks_ago" = " اسبوع";
+"last_month" = "الشهر الماضي";
+"months_ago" = " شهر";
+"last_year" = "العام الماضي";
+"years_ago" = " عام";
+/* notification status */
+ "booking_approve" = "تم قبول طلبك وسوف يتم ارسال التذكرة على الايميل الخاص بك" ;
+ "booking_disapprove" = "نأسف لعدم قبول طلبك للحصول على بيانات غير كاملة" ;
+ "event_approve" = "تم قبول طلبك الخاص بإضافة الحدث" ;
+ "event_disapprove" = "نأسف لعدم قبول هذا الحدث للحصول على بيانات غير كاملة" ;
+ "upgrade_approve" = "تم قبول طلبك للترقية إلى الشركة" ;
+ "upgrade_disapprove" = "نأسف لعدم قبولك لتكون شركة" ;
+//////
+
+"all_fields_required" = "من فضلك ، جميع الحقول مطلوبة" ;
+"email_required" = "من فضلك ، حقل البريد الإلكتروني مطلوب" ;
+"password_required" = "من فضلك ، حقل كلمة المرور مطلوب" ;
+"email_invalid" = "آسف ، البريد الإلكتروني غير صالح" ;
+"password_Weak" = "عذرا ، كلمة المرور ضعيفة" ;
+"phone_required" = "من فضلك ، رقم الجوال مطلوب" ;
+"phone_invalid" = "عذرا ، رقم الجوال غير صحيح" ;
+"user_required" = "عذرا ، حقل اسم المستخدم مطلوب." ;
+"successfullyـregistered" = "لقد تم التسجيل بنجاح" ;
+"failed_register" = "آسف ، لقد فشلت في التسجيل" ;
+// no_internet_connection
+"no_internet_connection" = "لا يوجد اتصال بالأنترنت" ;
+//// login localization
+"successfullyـlogin" = "رائع ،لقد تم تسجيل الدخول بنجاح" ;
+"failed_Login" = "عذرا ، البريد الإلكتروني الخاص بك أو كلمة المرور غير صحيحة" ;
+"get_data_error" = "حاول فى وقتا لاحق" ;
+"failed_get_data" = "عذرا،حاول فى وقتا لاحق" ;
+// event cell
+"person" = "شخص" ;
+"SR" = "ر.س" ;
+"Tikets" = "تذكره" ;
+
+
+// alert for book activity
+"alertmessageActivity" = "هل تريد حجز النشاط" ;
+"warning" = "تنبيه" ;
+"ok" = "موافق" ;
+"cancel" = "الغاء" ;
+"bookEventFirst" = "آسف ، أنت لم تحجز هذا الحدث";
+//booking activity
+"activitySuccess" = "رائع ، تم حجز النشاط بنجاح." ;
+"ivalidsubScriber" = "آسف ، رقم عدد المشتركين غير صالح." ;
+"invalidpayedMethod" = "آسف ، طريقة الدفع غير صالحة." ;
+//
+// edit profile
+
+//// upgrade to company
+"UpgradedToCompany" = "رائع ، لقد تم ترقيتك الى شركه بنجاح." ;
+"FailedUpgradedToCompany" = "عذرا ، لقد فشلت فى الترقيه الى شركه،حاول فى وقتا لاحق" ;
+// take image
+"Upload_Image" = "تحميل صوره" ;
+"take_photo" = "الصور";
+"open_Camer" = "الكاميرا" ;
+/// contact us
+"subject_required" = "آسف ، حقل الموضوع مطلوب." ;
+"Message_required" = "عذرا ، حقل الرسالة فارغ." ;
+"message_sent" = "رائع ،لقد تم ارسال الرساله بنجاح." ;
+// add activity
+"activity_added" = "رائع ،لقد تم اضافة النشاط بنجاح" ;
+"activity_not_added" = "نأسف ، تمت إضافة الحدث ولكن لم تتم إضافة النشاط" ;
+"event_added" = "رائع ،لقد تم اضافة الحدث بنجاح." ;
+// accept & refuse event
+"booking_accepted" = "رائع ، تم قبول الحجز الخاص بك." ;
+"booking_Notaccepted" = "عذرا ، الحجز غير مقبول";
+"booking_Error" = "عفوًا ، لا يتم إرسال طلبك للحصول على بيانات غير كاملة." ;
+// event actions
+"event_id_not_correct" = "آسف ، لم يتم العثور على الحدث" ;
+"event_deleted" = "رائع ، تم حذف الحدث بنجاح." ;
+"have_booking" = "آسف ، هذا الحدث لديه حجز." ;
+"event_deleted_notAllowed" = "عذرا ،لقد تم قبول حجز لهذا الحدث" ;
+
+//edit event
+"event_not_edited" = "آسف ، لم يتم تعديل حدثك للحصول على بيانات غير كاملة." ;
+"event_edited" = "رائع ، حدثك تم تحديثه بنجاح." ;
+// social
+"error_loading" = "آسف ، مشكلة تحدث عند فتح الموقع " ;
+//
+"enterActivitySubscribers" = "من فضلك ، أدخل عدد الأفراد الذين يأتون إلى هذا النشاط";
+"enterNumber" = "ادخل الرقم" ;
+/// book event
+"payment_invalid" = "آسف ، طريقة الدفع غير صالحة" ;
+"number_of_individual_required" = "عذرا ،رقم عدد المشتركين غير صالح" ;
+"booking_success" = "رائع ، تم الانتهاء من الحجز بنجاح." ;
+"booking_fail" = "عذرا ،لم يتم الحجز بنجاح لعدم اكتمال البيانات" ;
+// my order status
+"completed" = "منجز" ;
+"refused" = "مرفوض" ;
+"finished" = "تم الانتهاء" ;
+// my order return data
+"No_data_available" = "لا تتوافر بيانات لعرضها" ;
+"activity_Name_number" = "نشاط رقم  " ;
+/// alert because not company
+"not_allowed" = "عذرا ، غير مسموح به لأنك لست شركة" ;
+"Warning" = "تنبيه" ;
+"success_booking" = "رائع ،لقد تم حجز الحدث بنجاح." ;
+"alarm" = "تنبيه!";
+"AddAnotherActivity" = "اضافة نشاط اخر" ;
+"ActivityAdedSuccess" = "رائع ، تم إضافة النشاط بنجاح." ;
+"finish" = "تم الانتهاء" ;
+"ImageUpdatedSuccess" = "رائع ،تم تحديث الصوره الشخصيه بنجاح." ;
+"UpdatedSuccess" = "رائع ،لقد تم تحيث الملف الشخصى بنجاح." ;
+//
+"EnterStartTimeFirst" = "من فضلك ، أدخل وقت البدء أولاً." ;
+"enterEndAtFirst" = "من فضلك ، أدخل نهاية الوقت أولا." ;
+"notallowed" = "عذرا ، غير مسموح به لإضافة حدث" ;
+/// add event
+"eventNameRequired" = "من فضلك ، أدخل اسم الحدث." ;
+"departmentNameRequired" = "من فضلك ، أدخل اسم القسم." ;
+"typenameRequired" = "من فضلك ، أدخل اسم النوع." ;
+"responsibleRequired" = "من فضلك ادخل الاسم المسؤول" ;
+"firstImageRequired" = "من فضلك ، أدخل الصورة الأولى.";
+"secondImageRequired" = "من فضلك ، أدخل الصورة الثانية.";
+"startDateRequired" = "من فضلك ، أدخل تاريخ البدء.";
+"starttimeRequired" = "من فضلك ، أدخل وقت البدء.";
+"endDateRequired" = "من فضلك ، أدخل تاريخ الانتهاء.";
+"endtimeRequired" = "من فضلك ، أدخل وقت الانتهاء.";
+"eventPriceRequired" = "من فضلك ، أدخل سعر الحدث.";
+"eventmaxNumberRequired" = "من فضلك ، أدخل الحد الأقصى لعدد المشتركين في الحدث.";
+"eventEventDetailsRequired" = "من فضلك ، أدخل تفاصيل الحدث.";
+"eventTicketDetailsRequired" = "من فضلك ، أدخل تفاصيل تذكرة الحدث.";
+/// add activity
+"title_required" = "من فضلك ، أدخل اسم النشاط." ;
+"unit_required" = "من فضلك ، أدخل وحدة النشاط." ;
+"price_required" = "من فضلك ، أدخل سعر النشاط." ;
+"address_required" = "من فضلك ، أدخل عنوان النشاط." ;
+"max_required" = "من فضلك ،ادخل اقصى عدد المشتركين للنشاط" ;
+"time_required" = "من فضلك ، أدخل تاريخ بدء النشاط." ;
+"date_required" = "من فضلك ، أدخل تاريخ انتهاء النشاط." ;
+"image_required" = "من فضلك ، أدخل صورة النشاط." ;
+"enterNewPassword" = "من فضلك، ادخل كلمة المرور الجديده.";
+"eventEnglishNameRequired" = "من فضلك ،ادخل اسم الحدث باللغه الانجليزيه.";
+"titleEnglish_required" = "من فضلك ،ادخل اسم النشاط باللغه الانجليزيه.";
+"for_booking" = "طلب حجز جديد";
+"not_complete" = "عذرا ،لم يتم اكتمال طلبك لعدم اكتمال البيانات.";

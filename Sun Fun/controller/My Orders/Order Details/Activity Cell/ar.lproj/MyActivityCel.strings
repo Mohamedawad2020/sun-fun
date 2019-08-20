@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Subscriber Number : "; ObjectID = "BKB-9Q-cBK"; */
+"BKB-9Q-cBK.text" = "عدد المشتركين :";
+
+/* Class = "UILabel"; text = "activity name"; ObjectID = "fKt-ps-HQr"; */
+"fKt-ps-HQr.text" = "اسم النشاط";
+
+/* Class = "UILabel"; text = "subNumber"; ObjectID = "lyV-92-htG"; */
+"lyV-92-htG.text" = "subNumber";
+
+/* Class = "UILabel"; text = "activity name : "; ObjectID = "vE2-eE-27m"; */
+"vE2-eE-27m.text" = "اسم النشاط : ";

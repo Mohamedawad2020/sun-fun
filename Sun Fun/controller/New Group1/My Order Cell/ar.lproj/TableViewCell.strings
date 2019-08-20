@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Order status"; ObjectID = "3B2-tm-EVQ"; */
+"3B2-tm-EVQ.text" = "حالة الطلب";
+
+/* Class = "UILabel"; text = "Ticket Number"; ObjectID = "BXm-6P-OQn"; */
+"BXm-6P-OQn.text" = "رقم التذكرة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CqY-vS-qhm"; */
+"CqY-vS-qhm.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D8n-Zr-4F3"; */
+"D8n-Zr-4F3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "P0G-pN-JgW"; */
+"P0G-pN-JgW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "itN-u2-hSq"; */
+"itN-u2-hSq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "View Request"; ObjectID = "rOh-4Q-DTc"; */
+"rOh-4Q-DTc.normalTitle" = "تفاصيل";
+
+/* Class = "UILabel"; text = "Ticket Price"; ObjectID = "zAg-hb-dp0"; */
+"zAg-hb-dp0.text" = "سعر التذكره";

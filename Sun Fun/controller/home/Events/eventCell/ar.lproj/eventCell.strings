@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Tickets residual"; ObjectID = "72V-Fr-81f"; */
+"72V-Fr-81f.text" = "التذاكر المتبقيه";
+
+/* Class = "UILabel"; text = "Tickets residual"; ObjectID = "DNw-dt-oPE"; */
+"DNw-dt-oPE.text" = "التذاكر المتبقيه";
+
+/* Class = "UILabel"; text = "Event Name"; ObjectID = "P84-m6-oNW"; */
+"P84-m6-oNW.text" = "اسم الحدث";
+
+/* Class = "UILabel"; text = "Join us"; ObjectID = "ZjY-Mm-ZFx"; */
+"ZjY-Mm-ZFx.text" = "انضم الينا";
+
+/* Class = "UILabel"; text = "Join us"; ObjectID = "a5o-Qy-GPb"; */
+"a5o-Qy-GPb.text" = "انضم الينا";
+
+/* Class = "UILabel"; text = "price"; ObjectID = "hJY-Pq-kxt"; */
+"hJY-Pq-kxt.text" = "السعر";
+
+/* Class = "UILabel"; text = "price"; ObjectID = "hQo-cg-WDs"; */
+"hQo-cg-WDs.text" = "السعر";
+
+/* Class = "UIButton"; normalTitle = "Book Now"; ObjectID = "wDX-Ge-Daa"; */
+"wDX-Ge-Daa.normalTitle" = "احجز الان";

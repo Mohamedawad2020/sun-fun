@@ -1,0 +1,173 @@
+/* 
+  Localizable.strings
+  Sun Fun
+
+  Created by arab devolpers on 7/16/19.
+  Copyright © 2019 arab devolpers. All rights reserved.
+*/
+// registeration localization
+"all_fields_required" = "Please,All Fields Required" ;
+"email_required" = "Please,Email Field Required" ;
+"password_required" = "Please,Password Field Required" ;
+"email_invalid" = "sorry, Invalid Email" ;
+"password_Weak" = "Sorry, Password Is Weak" ;
+"phone_required" = "Please, Phone Number Required" ;
+"phone_invalid" = "Sorry, Invalid Phone Number" ;
+"user_required" = "Sorry ,User Name Field Required." ;
+"successfullyـregistered" = "Awesome, Successfully Registered" ;
+"failed_register" = "Sorry, You Failed To Register" ;
+// no_internet_connection
+"no_internet_connection" = "No Internet Connection" ;
+//// login localization
+"successfullyـlogin" = "Awesome, Successfully login" ;
+"failed_Login" = "Sorry, Your Email Or Password Incorrect" ;
+"get_data_error" = "Sorry,Try it later" ;
+"failed_get_data" = "Sorry , You Failed To Get Data" ;
+// event cell
+"person" = "Person" ;
+"SR" = "SR" ;
+"Tikets" = "Tickets" ;
+
+
+// alert for book activity
+"alertmessageActivity" = "Do you want to book the activity" ;
+"warning" = "Warning" ;
+"ok" = "Ok" ;
+"cancel" = "Cancel" ;
+"bookEventFirst" = "Sorry ,You Not Booking That Event.";
+//booking activity
+"activitySuccess" = "Awesome, Successfully booked Activity." ;
+"ivalidsubScriber" = "Sorry, invalid subscriber number." ;
+"invalidpayedMethod" = "Sorry , Invalid Payment Method." ;
+//
+// edit profile
+"gmail_required" = "Sorry,Gmail Field Required" ;
+"youtube_required" = "Sorry,Youtube Field Required" ;
+"twitter_required" = "Sorry,Twitter Field Required" ;
+"facebook_required" = "Sorry,Favebook Field Required" ;
+"responsible_Required" = "Sorry,Responsible Field Required" ;
+"address_required" = "Sorry,Address Field Required" ;
+//// upgrade to company
+
+"FailedUpgradedToCompany" = "Sorry, Failed To Upgrade To Company." ;
+// take image
+"Upload_Image" = "Upload Image" ;
+"take_photo" = "Gallary";
+"open_Camer" = "Camera" ;
+/// contact us
+"subject_required" = "Sorry ,Subject Field Required." ;
+"Message_required" = "Sorry ,Message Field Is Empty." ;
+"message_sent" = "Awesome, Successfully Your Message Sent." ;
+// add activity
+"activity_added" = "Awesome, Successfully Activity Added." ;
+"activity_not_added" = "Sorry ,Event Added But Activity Not Added." ;
+"event_added" = "Awesome, Successfully Event Added." ;
+/* Time localize */
+"just_now" = "Just now";
+"seconds_ago" = " seconds ago";
+"minute_ago" = "A minute ago";
+"minutes_ago" = " minutes ago";
+"hour_ago" = "An hour ago";
+"hours_ago" = " hours ago";
+"days_ago" = " days ago";
+"yesterday" = "Yesterday";
+"last_week" = "Last week";
+"weeks_ago" = " weeks ago";
+"last_month" = "Last month";
+"months_ago" = " months ago";
+"last_year" = "Last year";
+"years_ago" = " years ago";
+/* notification status */
+"booking_approve" = "Your order has been accepted and the ticket will be sent to your email" ;
+"booking_disapprove" = "We are sorry to not accept your request for incomplete data" ;
+"event_approve" = "Your order of adding event has been accepted" ;
+"event_disapprove" = "We are sorry to not accept your event for incomplete data" ;
+"upgrade_approve" = "Your order of Upgrading to company has been accepted" ;
+"upgrade_disapprove" = "we are sorry to not accept you to be company" ;
+"for_booking" = "Some people want a ticket to attend an event organized by" ;
+"accepted_event_booking" = "You have accepted the event booking ticket" ;
+"refused_event_booking" = "You have refuesed the event booking ticket" ;
+"you_have_accept_before" = "You Have Accepted Before." ;
+"you_have_refused_before" = "You Have Refused Before." ;
+// accept & refuse event
+"booking_accepted" = "Awesome ,Your Booking Accepted." ;
+"booking_Notaccepted" = "Sorry ,Your Booking Not Accepted.";
+"booking_Error" = "Sorry, Your Request Not Send For Incomplete data." ;
+// event actions
+"event_id_not_correct" = "Sorry ,Event Not Found" ;
+"event_deleted" = "Awesome ,Event Deleted successfully." ;
+"have_booking" = "Sorry ,That Event Has Booking." ;
+"event_deleted_notAllowed" = "Sorry ,This Event You Accepted Booking." ;
+
+//edit event
+"event_not_edited" = "sorry ,Your Event Not Edited For Incomplete Data." ;
+"event_edited" = "Awesome ,Your Event Updated successfully." ;
+// social
+"error_loading" = "Sorry ,An Problem Occure When Open The Website " ;
+//
+"enterActivitySubscribers" = "Please ,Enter Number Of Individuals Come to That Activity";
+"enterNumber" = "Enter Number" ;
+/// book event
+"payment_invalid" = "Sorry ,Invalid Payment Method" ;
+"number_of_individual_required" = "Sorry ,number Of Individual Required" ;
+"booking_success" = "Awesome ,Booking completed Successfully." ;
+"booking_fail" = "Sorry ,Booking Not Complete For Incomplete Data" ;
+// my order status
+"completed" = "Completed" ;
+"refused" = "Refused" ;
+"finished" = "Finished" ;
+// my order return data
+"No_data_available" = "No data available" ;
+"activity_Name_number" = "Activity Number " ;
+/// alert because not company
+"not_allowed" = "Sorry ,Not Allowed Because Yor Are Not Company" ;
+"Warning" = "Warning" ;
+"success_booking" = "Awesome ,Booking Event Completed Successfully." ;
+"alarm" = "Alarm!";
+"AddAnotherActivity" = "Add Another Activity" ;
+"ActivityAdedSuccess" = "Awesome ,Activity Added Successfully." ;
+"finish" = "Finish" ;
+"ImageUpdatedSuccess" = "Awesome ,Image Profile Updated Successfully." ;
+"UpdatedSuccess" = "Awesome ,Profile Updated Successfully." ;
+//
+"EnterStartTimeFirst" = "Please ,Enter Start time First." ;
+"enterEndAtFirst" = "Please ,Enter End AT time First." ;
+"notallowed" = "Sorry, Not Allowed To Add event" ;
+/// add event
+"eventNameRequired" = "Please ,Enter Event Name." ;
+"departmentNameRequired" = "Please ,Enter Department Name." ;
+"typenameRequired" = "Please ,Enter Type Name." ;
+"responsibleRequired" = "Please ,Enter Responsible Name." ;
+"firstImageRequired" = "please ,Enter First Image.";
+"secondImageRequired" = "please ,Enter Second Image.";
+"startDateRequired" = "please ,Enter Start Date.";
+"starttimeRequired" = "please ,Enter Start Time.";
+"endDateRequired" = "please ,Enter End Date.";
+"endtimeRequired" = "please ,Enter End Time.";
+"eventPriceRequired" = "please ,Enter Event Price.";
+"eventmaxNumberRequired" = "please ,Enter Event Maximum Subsciber Number.";
+"eventEventDetailsRequired" = "please ,Enter Event Details.";
+"eventEventEnglishDetailsRequired" = "please ,Enter Event Details In English.";
+
+"eventTicketDetailsRequired" = "please ,Enter Event Ticket Details.";
+"eventTicketEnglishDetailsRequired" = "please ,Enter Event Ticket Details In English.";
+
+/// add activity
+"title_required" = "Please ,Enter Activity Name." ;
+"titleEnglish_required" = "Please ,Enter Activity Name In English." ;
+
+"unit_required" = "Please ,Enter Activity Unit." ;
+"price_required" = "Please ,Enter Activity Price." ;
+"address_required" = "Please ,Enter Activity Address." ;
+"addressEnglish_required" = "Please ,Enter Activity Address In English." ;
+
+"max_required" = "Please ,Enter Activity Maximum Subscriber Number." ;
+"time_required" = "Please ,Enter Activity Start Date." ;
+"date_required" = "Please ,Enter Activity End Date." ;
+"image_required" = "Please ,Enter Activity Image." ;
+"upgradeSuccess" =  "Awesome, Successfully Upgraded To Company." ;
+"passwordUpdated" = "Awesome, Successfully Password Updated." ;
+"enterNewPassword" = "Please ,enter New Password.";
+"eventEnglishNameRequired" = "Please ,Event english Name Required.";
+"for_booking" = "New Booking Order";
+"not_complete" = "Sorry ,Your Request Not Complete For Incomplete Data.";

@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "account name"; ObjectID = "E8a-pm-Ciy"; */
+"E8a-pm-Ciy.text" = "اسم الحساب";
+
+/* Class = "UILabel"; text = "Account IBAN "; ObjectID = "Ed1-9V-CI7"; */
+"Ed1-9V-CI7.text" = "رقم حساب IBAN ";
+
+/* Class = "UILabel"; text = "account iban"; ObjectID = "K4r-Qr-IaN"; */
+"K4r-Qr-IaN.text" = "account iban";
+
+/* Class = "UILabel"; text = "Account Bank Name "; ObjectID = "VpL-I4-IIv"; */
+"VpL-I4-IIv.text" = "اسم الحساب المصرفي ";
+
+/* Class = "UILabel"; text = "account bank name"; ObjectID = "eT1-9s-Vd4"; */
+"eT1-9s-Vd4.text" = "اسم الحساب المصرفي";
+
+/* Class = "UILabel"; text = "Account Number"; ObjectID = "ifT-x9-dcC"; */
+"ifT-x9-dcC.text" = "رقم الحساب";
+
+/* Class = "UILabel"; text = "Account Name"; ObjectID = "orl-8Q-g80"; */
+"orl-8Q-g80.text" = "اسم الحساب";
+
+/* Class = "UILabel"; text = "Account Number"; ObjectID = "uh3-P6-7k3"; */
+"uh3-P6-7k3.text" = "رقم الحساب";

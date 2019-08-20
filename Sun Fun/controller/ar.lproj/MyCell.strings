@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "To"; ObjectID = "0Vy-DZ-YPB"; */
+"0Vy-DZ-YPB.text" = "الى";
+
+/* Class = "UILabel"; text = "Organizer :"; ObjectID = "7lG-OW-L36"; */
+"7lG-OW-L36.text" = "اسم المسؤول:";
+
+/* Class = "UILabel"; text = "Organizer Name"; ObjectID = "9Zi-2j-pSm"; */
+"9Zi-2j-pSm.text" = "اسم المسؤول";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "C9p-wm-yA9"; */
+"C9p-wm-yA9.normalTitle" = "إزالة";
+
+/* Class = "UILabel"; text = "Event Name"; ObjectID = "Fer-GG-eQT"; */
+"Fer-GG-eQT.text" = "اسم الحدث";
+
+/* Class = "UILabel"; text = "From Time"; ObjectID = "Kyu-pu-JaC"; */
+"Kyu-pu-JaC.text" = "وقت البدايه";
+
+/* Class = "UILabel"; text = "Event Date"; ObjectID = "X5e-aa-NZz"; */
+"X5e-aa-NZz.text" = "تاريخ الحدث";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "h8c-cn-TLN"; */
+"h8c-cn-TLN.normalTitle" = "تعديل";
+
+/* Class = "UILabel"; text = "Event Brife Description"; ObjectID = "ly7-8w-Gdr"; */
+"ly7-8w-Gdr.text" = "وصف مختصر عن الحدث";
+
+/* Class = "UILabel"; text = "To Time"; ObjectID = "prH-CQ-peD"; */
+"prH-CQ-peD.text" = "وقت النهايه";
